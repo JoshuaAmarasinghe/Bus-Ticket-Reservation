@@ -1,2 +1,3 @@
 # Bus-Ticket-Reservation
-This is the inventory section of the laundry management system.We did this for year 2 semester 1 OOP project SLIIT
+Bus-Ticket-Reservation-Management-System
+Year 2 Semester 1 OOP project SLIIT
